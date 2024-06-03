@@ -1,0 +1,18 @@
+import pyautogui
+import time
+time.sleep(1)
+pyautogui.press("winleft")
+time.sleep(1)
+pyautogui.press("enter")
+time.sleep(1)
+pyautogui.write("notepad")
+time.sleep(1)
+pyautogui.press("enter")
+time.sleep(1)
+pyautogui.write("I HACKED YOU")
+time.sleep(1)
+pyautogui.hotkey("alt","f4")
+time.sleep(1)
+pyautogui.press("tab")
+time.sleep(1)
+pyautogui   .press("enter")
